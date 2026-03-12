@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-Hi there! 👋 I'm [Yosvanis Pérez], an aspiring Junior Data Analyst. This repository showcases my personal projects where I apply data analysis, visualization, and database querying skills to solve practical problems.
+Hi there! 👋 I'm Yosvanis Pérez, an aspiring Junior Data Analyst. This repository showcases my personal projects where I apply data analysis, visualization, and database querying skills to solve practical problems.
 
 ## About Me
 
