@@ -1,37 +1,45 @@
-# Data Analysis Portfolio
+👋 Hi, I'm Yosvanis Pérez
 
-Hi there! 👋 I'm Yosvanis Pérez, an aspiring Junior Data Analyst. This repository showcases my personal projects where I apply data analysis, visualization, and database querying skills to solve practical problems.
+🎯 Junior Data Analyst | Python | SQL | Power BI | Tableau
 
-## About Me
-
-- 🔍 Passionate about turning raw data into actionable insights.
-- 📊 Skilled in **SQL**, **Python (Pandas, Matplotlib, Seaborn)**, **Power BI**, and **Excel**.
-- 🌱 Continuously learning and building my portfolio with real-world scenarios.
-- 💼 Open to remote Junior Data Analyst opportunities.
-- 📫 Reach me on [LinkedIn](yosvanis-pérez-ortíz-1b0479394) or via email at [yosvanisp35@gmail.com].
-
-## Projects Overview
-
-Here you'll find three main projects:
-
-### 1. Sales Analysis Dashboard (Python + Power BI)
-- **Goal:** Analyze sales performance to identify top products, monthly trends, and key customers.
-- **Tools:** Python (Pandas, Matplotlib), Power BI.
-- **Key Skills:** Data cleaning, EDA, interactive dashboard design.
-- [Go to project →](Project1_Sales_Analysis/)
-
-### 2. Customer Segmentation (SQL + Excel)
-- **Goal:** Classify customers into segments for personalized marketing.
-- **Tools:** SQL, Excel (Pivot Tables, Formulas).
-- **Key Skills:** Database querying, RFM analysis, data visualization in Excel.
-- [Go to project →](Project2_Customer_Segmentation/)
-
-### 3. Bookstore Sales Analysis (SQL + Power BI)
-- **Goal:** Analyze book sales trends to identify top authors and seasonal patterns.
-- **Tools:** SQL, Power BI.
-- **Key Skills:** Complex SQL queries, data modeling in Power BI, dashboard creation.
-- [Go to project →](Project3_Bookstore_Analysis/)
+I am a self-taught Data Analyst focused on transforming raw data into actionable insights that support business decision-making. I am currently building real-world data projects involving data cleaning, analysis, and visualization.
 
 ---
 
-*Feel free to explore each project folder for detailed code, explanations, and dashboards.*
+🚀 About Me
+
+- 📊 Focused on data analysis and data visualization
+- 🐍 Working with Python (pandas, matplotlib)
+- 🗄️ Querying and managing data using SQL
+- 📈 Building interactive dashboards with Power BI and Tableau
+- 🌍 Open to freelance projects, collaborations, and entry-level opportunities
+
+---
+
+🛠️ Tech Stack
+
+- Python (pandas, numpy)
+- SQL
+- Excel (Advanced)
+- Power BI
+- Tableau
+- Git & GitHub
+
+---
+
+📂 Featured Projects
+
+🔹 "E-commerce Sales Analysis" (LINK)
+🔹 "Financial Dashboard (Power BI)" (LINK)
+🔹 "Movie Dataset Analysis" (LINK)
+
+---
+
+📫 Contact
+
+- LinkedIn: yosvanis-pérez-ortíz-1b0479394
+- Email: joycreador05@gmail.com
+
+---
+
+⭐ Currently building my data analytics portfolio. Open to remote opportunities and international collaboration.
