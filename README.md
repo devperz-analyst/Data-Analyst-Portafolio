@@ -20,7 +20,7 @@ I am a self-taught Data Analyst focused on transforming raw data into actionable
 
 - Python (pandas, numpy)
 - SQL
-- Excel (Advanced)
+- Excel
 - Power BI
 - Tableau
 - Git & GitHub
@@ -29,9 +29,9 @@ I am a self-taught Data Analyst focused on transforming raw data into actionable
 
 📂 Featured Projects
 
-🔹 "E-commerce Sales Analysis" (LINK)
-🔹 "Financial Dashboard (Power BI)" (LINK)
-🔹 "Movie Dataset Analysis" (LINK)
+🔹 "E-commerce Sales Analysis"
+🔹 "Financial Dashboard (Power BI)"
+🔹 "Movie Dataset Analysis"
 
 ---
 
