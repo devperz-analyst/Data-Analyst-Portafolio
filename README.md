@@ -1,6 +1,6 @@
 👋 Hi, I'm Yosvanis Pérez
 
-🎯 Junior Data Analyst | Python | SQL | Power BI | Tableau
+🎯 Junior Data Analyst | Python | SQL | Excel | Power BI
 
 I am a self-taught Data Analyst focused on transforming raw data into actionable insights that support business decision-making. I am currently building real-world data projects involving data cleaning, analysis, and visualization.
 
