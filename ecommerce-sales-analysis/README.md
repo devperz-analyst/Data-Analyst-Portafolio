@@ -53,8 +53,6 @@ Description:
 
 📊 Visualizations
 
-(Insert charts and graphs here)
-
 ---
 
 🧠 Conclusions
