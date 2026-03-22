@@ -51,7 +51,7 @@ Description:
 
 📊 Visualizations
 
-(Insert charts here)
+
 
 ---
 
