@@ -31,7 +31,7 @@ I am a self-taught Data Analyst focused on transforming raw data into actionable
 
 🔹 "E-commerce Sales Analysis"
 🔹 "Financial Dashboard (Power BI)"
-🔹 "Movie Dataset Analysis"
+🔹 "Movie Dataset Analysis" (https://github.com/devperz-analyst/Data-Analyst-Portafolio/tree/main/advanced-data-analysis)
 
 ---
 
