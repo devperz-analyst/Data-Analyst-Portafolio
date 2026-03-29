@@ -19,7 +19,6 @@ This project analyzes e-commerce sales data to identify key trends, top-performi
 
 - Python (pandas, matplotlib)
 - Jupyter Notebook
-- Excel
 
 ---
 
@@ -61,5 +60,5 @@ The analysis highlights key revenue drivers and uncovers opportunities for optim
 🚀 Future Improvements
 
 - To build an interactive dashboard in Power BI
-- To utomate reporting using Python scripts
+- To automate reporting using Python scripts
 - To add predictive analysis for sales forecasting
