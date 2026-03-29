@@ -1,4 +1,4 @@
-📊 E-commerce Sales Data Analysis
+📊 Retail Revenue Analysis
 
 📌 Project Overview
 
@@ -43,17 +43,14 @@ Description:
 
 ---
 
-📈 Key Insights
+📈 Key Insight and Business Recommendations
 
-- A small group of products generates a significant portion of total revenue
-- Sales show clear seasonal patterns with peaks during specific periods
-- Certain categories underperform and may require strategic adjustments
-
+- Focus marketing and inventory strategies on top-performing products.
+- Explore opportunities in high-revenue regions or customer segments.
+- Consider optimizing shipping methods to reduce delays and improve customer satisfaction.
+- Monitor seasonal trends to plan promotions and stock levels.
 ---
 
-📊 Visualizations
-
----
 
 🧠 Conclusions
 
@@ -63,6 +60,6 @@ The analysis highlights key revenue drivers and uncovers opportunities for optim
 
 🚀 Future Improvements
 
-- Build an interactive dashboard in Power BI
-- Automate reporting using Python scripts
-- Add predictive analysis for sales forecasting
+- To build an interactive dashboard in Power BI
+- To utomate reporting using Python scripts
+- To add predictive analysis for sales forecasting
