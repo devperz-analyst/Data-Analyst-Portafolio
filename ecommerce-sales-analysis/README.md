@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project analyzes e-commerce sales data to identify key trends, top-performing products, and revenue patterns. The goal is to extract actionable insights that can help improve business performance and decision-making.
+This project analyzes retail revenues to identify key trends, top-performing products, and revenue patterns. The goal is to extract actionable insights that can help improve business performance and decision-making.
 
 ---
 
@@ -59,6 +59,6 @@ The analysis highlights key revenue drivers and uncovers opportunities for optim
 
 🚀 Future Improvements
 
-- To build an interactive dashboard in Power BI
-- To automate reporting using Python scripts
-- To add predictive analysis for sales forecasting
+- Build an interactive dashboard in Power BI
+- Automate reporting using Python scripts
+- Add predictive analysis for sales forecasting
